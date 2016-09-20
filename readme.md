@@ -19,16 +19,16 @@ Feature
 
 UI List
 ------
-Table
-Button
-Paging
-Modal
-Layer
-Collapse
-Tab
-Progress
-Carousel
-ionicons
+* Table
+* Button
+* Paging
+* Modal
+* Layer
+* Collapse
+* Tab
+* Progress
+* Carousel
+* ionicons
 
 
 download
