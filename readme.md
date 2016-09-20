@@ -41,4 +41,4 @@ http://static.gabia.com/libs/search/result.php?lib=gtris
 
 example
 ---------
-* http://gabia-frontend-dev.com/gabiagoods/
+http://gabia-frontend-dev.com/gabiagoods/
